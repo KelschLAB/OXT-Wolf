@@ -6,8 +6,9 @@ This repository contains code to reproduce the main figures and results from the
 
 1. System requirements
     - Matlab 2023a with Statistics and Machine Learning Toolbox (version 12.5) and Curve Fitting Toolbox (version 3.9)
-    - For pretty line plots:  Maik Stüttgen (2023). MLIB - toolbox for analyzing spike data (https://www.mathworks.com/matlabcentral/fileexchange/37339-mlib-toolbox-for-analyzing-spike-data), MATLAB Central File Exchange. Retrieved November 17, 2023. 
+    - Maik Stüttgen (2023). MLIB - toolbox for analyzing spike data (https://www.mathworks.com/matlabcentral/fileexchange/37339-mlib-toolbox-for-analyzing-spike-data), MATLAB Central File Exchange. Retrieved November 17, 2023.
     - For pretty boxplots: https://github.com/IoSR-Surrey/MatlabToolbox
+    - For pretty line plots:   Andreas Trier Poulsen (2023). mseb(x,y,errBar,lineProps,transparent) (https://www.mathworks.com/matlabcentral/fileexchange/47950-mseb-x-y-errbar-lineprops-transparent), MATLAB Central File Exchange. Retrieved November 27, 2023. 
     - MSTATS (version 2.0): https://de.mathworks.com/matlabcentral/fileexchange/47235-mstats-a-random-collection-of-statistical-functions?s_tid=prof_contriblnk
 
 2. Installation guide
