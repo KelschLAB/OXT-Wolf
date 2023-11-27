@@ -2,7 +2,7 @@
 Code associated with the paper titled "Oxytocin induces the formation of distinctive cortical representations and cognitions biased towards familiar mice." by 
 David Wolf, Renée Hartig, Yi Zhuo, Max F. Scheller, Mirko Articus, Marcel Moor, Valery Grinevich, Christiane Linster, Eleonora Russo, Wolfgang Weber-Fahr, Jonathan R. Reinwald and Wolfgang Kelsch.
 
-This repository contains code to reproduce the main figures and results from the deposited datasets (included in the repository and also available for download at: xxx).
+This repository contains code to reproduce the main figures and results from the deposited datasets (included in the repository and also available for download at: https://doi.org/10.6084/m9.figshare.24637986.v1).
 
 1. System requirements
     - Matlab 2023a with Statistics and Machine Learning Toolbox (version 12.5) and Curve Fitting Toolbox (version 3.9)
